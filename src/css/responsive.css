@@ -1,0 +1,20 @@
+@media (max-width:426px){
+    body {
+        background-color: #2c2042;
+    }
+
+    .container {
+        width: 90%;
+        font-size: 12px;
+        box-shadow: none;
+        padding: 0;
+    }
+
+    .cabecalho {
+        width: 100vw;
+    }
+
+    .input, #calcular, .result {
+        width: 90%;
+    }
+}
